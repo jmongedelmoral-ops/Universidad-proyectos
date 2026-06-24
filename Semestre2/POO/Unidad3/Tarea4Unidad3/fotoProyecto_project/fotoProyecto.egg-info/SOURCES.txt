@@ -1,0 +1,10 @@
+dev-requirements.txt
+pyproject.toml
+fotoProyecto/__init__.py
+fotoProyecto/__main__.py
+fotoProyecto.egg-info/PKG-INFO
+fotoProyecto.egg-info/SOURCES.txt
+fotoProyecto.egg-info/dependency_links.txt
+fotoProyecto.egg-info/requires.txt
+fotoProyecto.egg-info/top_level.txt
+tests/test_fotoProyecto.py

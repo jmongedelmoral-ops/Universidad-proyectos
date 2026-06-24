@@ -1,0 +1,36 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "AppPersona",
+            "request": "launch",
+            "mainClass": "tarea4.AppPersona",
+            "projectName": "unidad2tarea4_5698e9e"
+        },
+        {
+            "type": "java",
+            "name": "AppPersona",
+            "request": "launch",
+            "mainClass": "tarea3.AppPersona",
+            "projectName": "unidad2tarea3_5698e9d"
+        },
+        {
+            "console": "integratedTerminal",
+            "type": "java",
+            "name": "AppCoche",
+            "request": "launch",
+            "mainClass": "tarea3.AppCoche",
+            "projectName": "unidad2tarea3_6b8e9dce"
+        },
+        {
+            "type": "java",
+            "name": "Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
