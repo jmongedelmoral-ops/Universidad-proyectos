@@ -16,4 +16,4 @@ En esta materia aprendí los pilares fundamentales del paradigma orientado a obj
 Durante este semestre, adelanté el desarrollo del proyecto final, lo que me permitió comprender a fondo la estructura del sistema antes de finalizar las entregas teóricas. Como resultado, diseñé un modelo UML robusto y detallado para una de las entregas principales (Unidad4 > Unidad4ExamenPractico), aplicando de forma óptima los principios de la programación orientada a objetos.
 
 ### Vista del Diagrama de Clases
-![Diagrama UML Destacado](./UMLExamenInterfaces.pdf)
+![Diagrama UML Destacado](./Unidad4/Unidad4ExamenPractico/UMLExamenInterfaces.pdf)
